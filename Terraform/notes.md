@@ -1,6 +1,6 @@
 ## Commands
 
-*terraform init*
+__terraform init__
 terraform plan
 terraform apply
 terraform refresh
