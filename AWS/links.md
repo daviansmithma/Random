@@ -2,6 +2,8 @@
 
 https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html
 
+https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-comparison.html
+
 
 &nbsp; 
 &nbsp;
