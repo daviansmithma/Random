@@ -1,11 +1,21 @@
 ### Commands
 
-`terraform init` Initialize infrastructure from the main.tf file
+`terraform init` 
 
-`terraform plan` Displays the changes that will be made to the environment once applied
+Initialize infrastructure from the main.tf file
 
-`terraform apply` Applies the changes 
+`terraform plan` 
 
-`terraform refresh` If there were manual changes, or any changes made by drift...refresh sets environment to original state
+Displays the changes that will be made to the environment once applied
 
-`terraform destroy` Destroys infrastructure built by apply
+`terraform apply` 
+
+Applies the changes 
+
+`terraform refresh` 
+
+If there were manual changes, or any changes made by drift...refresh sets environment to original state
+
+`terraform destroy` 
+
+Destroys infrastructure built by apply
