@@ -4,6 +4,11 @@ https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html
 
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-comparison.html
 
+&nbsp; 
+
+**EC2**
+https://aws.amazon.com/ec2/
+
 
 &nbsp; 
 &nbsp;
