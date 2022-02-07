@@ -25,3 +25,8 @@ https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.XRgn.html
 **EBS**
 
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html
+
+
+**API Gateway**
+
+https://aws.amazon.com/api-gateway/
