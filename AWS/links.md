@@ -12,6 +12,8 @@ https://aws.amazon.com/ec2/
 
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-copy-snapshot.html
 
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html
+
 &nbsp; 
 &nbsp;
 
