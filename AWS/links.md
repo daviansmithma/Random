@@ -10,6 +10,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-comparison.html
 
 https://aws.amazon.com/ec2/
 
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-copy-snapshot.html
 
 &nbsp; 
 &nbsp;
